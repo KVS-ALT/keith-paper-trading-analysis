@@ -1,0 +1,32 @@
+type,stock,amount,date
+Dividend,GraniteShares 2x Short TSLA Daily ETF,390.6,2025-12-29
+Stock buy fee,Alphabet-A,-0.99,2025-12-26
+Stock buy,Alphabet-A,-25065.6,2025-12-26
+Stock buy fee,Microsoft,-0.99,2025-12-26
+Stock buy,Microsoft,-24357,2025-12-26
+Dividend,SPDR S&P 500 ETF,39.87,2025-12-19
+Dividend,NVIDIA,1,2025-12-04
+Dividend,Apple,26,2025-11-10
+Dividend,SPDR S&P 500 ETF,36.62,2025-09-19
+Dividend,NVIDIA,1,2025-09-11
+Stock buy fee,Shopify,-2.32,2025-08-19
+Stock buy,Shopify,-15492.95,2025-08-19
+Dividend,Apple,26,2025-08-11
+Stock buy fee,Figma Inc,-2.59,2025-08-05
+Stock buy,Figma Inc,-17962,2025-08-05
+Dividend,SPDR S&P 500 ETF,35.22,2025-06-20
+Stock buy fee,SPDR S&P 500 ETF,-2.05,2025-06-17
+Stock buy,SPDR S&P 500 ETF,-12027,2025-06-17
+Stock buy fee,Palantir,-2.29,2025-06-17
+Stock buy,Palantir,-13976,2025-06-17
+Stock buy fee,Apple,-2.29,2025-06-13
+Stock buy,Apple,-19599,2025-06-13
+Dividend,NVIDIA,1,2025-06-11
+Stock buy fee,GraniteShares 2x Short TSLA Daily ETF,-3.87,2025-04-29
+Stock buy,GraniteShares 2x Short TSLA Daily ETF,-10446.9,2025-04-29
+Stock buy fee,GraniteShares 2x Short TSLA Daily ETF,-3.87,2025-04-29
+Stock buy,GraniteShares 2x Short TSLA Daily ETF,-10446.9,2025-04-29
+Stock buy fee,NVIDIA,-2.29,2025-04-23
+Stock buy,NVIDIA,-10411.5,2025-04-23
+Stock buy fee,TMC the metals,-64.5,2025-04-23
+Stock buy,TMC the metals,-11800,2025-04-23
